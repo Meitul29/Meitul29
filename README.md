@@ -36,7 +36,7 @@ Passionate about transforming raw data into meaningful insights and scalable sol
 
 ## 🎯 Career Goals
 
-- 🧩 Become a **Data Engineer / Backend Developer**
+- 🧩 Become a **Applied AI Engineer / MLOPs**
 - 📊 Work on **real-world data pipelines & scalable systems**
 - 🤖 Integrate **Machine Learning models into web applications**
 - 💼 Contribute to impactful, production-level projects
