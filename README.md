@@ -55,11 +55,6 @@ Passionate about transforming raw data into meaningful insights and scalable sol
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meitul29&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meitul29&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=meitul29&theme=tokyonight" height="160"/>
 </p>
 
