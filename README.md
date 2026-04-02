@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Meitul Rana
 
-🚀 **Python Developer | Applied AI Engineer | Tech Enthusiast**
+🚀 **Python Developer | Aspiring AI Engineer | Tech Enthusiast**
 
 I build **data-driven web applications** by combining backend engineering with analytics.  
 Passionate about transforming raw data into meaningful insights and scalable solutions.
