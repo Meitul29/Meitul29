@@ -21,7 +21,14 @@ Passionate about transforming raw data into meaningful insights and scalable sol
 ## ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,pandas,numpy,html,css,git,java,c,gcp" />
+  <!-- Skillicons (supported ones) -->
+  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,git,java,c,gcp" />
+
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
 </p>
 
 ---
@@ -57,6 +64,7 @@ Passionate about transforming raw data into meaningful insights and scalable sol
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=meitul29&theme=tokyonight" height="160"/>
 </p>
+
 
 ---
 
