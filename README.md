@@ -1,84 +1,44 @@
-# 👋 Hi, I'm Meitul Rana
+# Hi, I'm Meitul Rana 👋
 
-🚀 **Python Developer | AI Engineer | Tech Enthusiast**
+I build practical machine learning models, deep learning architectures, and natural language processing systems. My focus is on taking raw, messy datasets, designing thoughtful feature pipelines, and turning experimental models into clean, reproducible code.
 
-I build **data-driven web applications** by combining backend engineering with analytics.  
-Passionate about transforming raw data into meaningful insights and scalable solutions.
-
----
-
-## 🧠 About Me
-
-- 💻 Strong in **Python**, building scalable apps using **Flask** & **Django**
-- 📊 Experienced in **data analysis** using **Pandas** & **NumPy**
-- 🌐 Skilled in **HTML & CSS** for responsive UI development
-- ☁️ Hands-on with **Google Cloud Platform** (via Skills Boost labs)
-- 🔍 Interested in **Data Engineering + Machine Learning integration**
-- ⚡ Focused on writing **clean, efficient, and production-ready code**
+What I bring to the table is a disciplined, fundamentals-first mindset—combining strong statistical intuition with clean software engineering so models hold up outside of Jupyter notebooks. Whether it is structuring leakage-free preprocessing pipelines or fine-tuning sequence and language models, I focus on building reliable systems that solve real problems.
 
 ---
 
-## ⚙️ Tech Stack
+## 🔍 What I Work On
 
-<p align="left">
-  <!-- Skillicons (supported ones) -->
-  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,git,java,c,gcp" />
-
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-</p>
+- **Machine Learning & Feature Engineering:** Designing end-to-end training and evaluation workflows in Scikit-Learn using custom transformers, column transformers, pipelines, and systematic hyperparameter tuning with Optuna.
+- **Deep Learning & Sequence Modeling:** Building and training neural networks in PyTorch and TensorFlow/Keras, with a strong focus on sequential architectures like RNNs and LSTMs for time-dependent and text data.
+- **Natural Language Processing (NLP):** Developing text processing pipelines, TF-IDF and word embedding representations, semantic similarity engines, and Transformer-based workflows using NLTK, spaCy, and Hugging Face.
+- **Model Inference & Packaging:** Wrapping trained models into lightweight, testable REST endpoints with FastAPI so predictions can be reliably consumed outside of notebooks.
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🧠 Engineering Approach
 
-- 🔧 Building **data-driven web apps** using Flask + Pandas  
-- ☁️ Exploring **cloud deployment & scalable architectures (GCP)**  
-- 📈 Improving skills in **data analysis & backend optimization**
-
----
-
-## 🎯 Career Goals
-
-- 🧩 Become a **Applied AI Engineer / MLOPs**
-- 📊 Work on **real-world data pipelines & scalable systems**
-- 🤖 Integrate **Machine Learning models into web applications**
-- 💼 Contribute to impactful, production-level projects
+- **Data-First:** Prioritizing thorough exploratory analysis, leakage-free validation splits, and clean feature representation before reaching for complex models.
+- **Reproducible & Modular:** Structuring experiments with modular Python scripts and reusable preprocessing pipelines rather than monolithic notebooks.
+- **Practical Evaluation:** Measuring models against task-relevant metrics and error analysis rather than relying solely on headline accuracy.
 
 ---
 
-## 📌 Featured Interests
+## 🧩 AI & ML Stack
 
-- 📊 Data Engineering & Analytics  
-- 🌐 Backend Development  
-- ☁️ Cloud Computing (GCP)  
-- 🤖 Machine Learning Integration  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=meitul29&theme=tokyonight" height="160"/>
-</p>
-
+- **Languages & Core:** Python, SQL
+- **Machine Learning:** Scikit-Learn, Optuna, Statistical Modeling
+- **Deep Learning:** PyTorch, TensorFlow, Keras (Neural Networks, RNNs, LSTMs)
+- **NLP & Text:** Hugging Face Transformers, spaCy, NLTK, TF-IDF & Embeddings
+- **Data Processing:** Pandas, NumPy, Feature Pipelines
+- **Inference & Tooling:** FastAPI, Git, Jupyter
 
 ---
 
-## 🌟 Motto
+## 📫 Contact
 
-> **"Build. Analyze. Deploy. Repeat."**
-
----
-
-## 📬 Let's Connect
-
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/mitul-rana-aa1ba82a8?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- 📧 Email: *mitulrana2910@gmail.com*
+- **LinkedIn:** [linkedin.com/in/mitul-rana](https://www.linkedin.com/in/mitul-rana-aa1ba82a8)
+- **Email:** mitulrana2910@gmail.com
 
 ---
 
-⭐ *Always open to collaborations, internships, and learning opportunities!*
+> *"Clean data, solid fundamentals, reliable models."*
