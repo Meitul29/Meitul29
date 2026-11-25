@@ -28,7 +28,7 @@ My contribution is clarity: I turn vague problem statements into measurable ML t
 |------|-----------|
 | **🤖 Applied Machine Learning** | End-to-end training and evaluation workflows in Scikit-Learn with custom transformers, `ColumnTransformer`s, pipelines, and systematic hyperparameter tuning with Optuna. |
 | **🧬 Deep Learning & Sequence Modeling** | Neural networks in PyTorch and TensorFlow/Keras, with a focus on RNNs and LSTMs for time-dependent and text data. |
-| **💬 NLP & Transformers** | Text processing pipelines, TF-IDF and word embeddings, semantic similarity engines, and Transformer-based workflows using NLTK, spaCy, and Hugging Face. |
+| **💬 NLP & Transformers** | Text processing pipelines, TF-IDF and word embeddings, semantic similarity engines, and Transformer-based workflows using NLTK, spaCy. |
 | **🚀 Model Deployment** | Wrapping trained models in lightweight, testable REST endpoints with FastAPI so predictions can be consumed reliably outside notebooks. |
 
 ---
