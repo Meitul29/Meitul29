@@ -1,47 +1,78 @@
 <div align="center">
- 
+
 # Hi, I'm Meitul Rana 👋
- 
-### Machine Learning · Deep Learning · NLP
- 
+
+### Aspiring AI Engineer · Machine Learning · Deep Learning · NLP
+
 *I turn messy datasets into reliable, reproducible models that hold up outside of Jupyter notebooks.*
- 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitul-rana-aa1ba82a8)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitulrana2910@gmail.com)
- 
+
 </div>
- 
+
 ---
- 
+
 ## 👨‍💻 About Me
- 
-I build practical machine learning models, deep learning architectures, and natural language processing systems. I take raw, messy data, design thoughtful feature pipelines, and turn experimental models into clean, reproducible code.
+
+I'm an Aspiring AI Engineer and I can apply machine learning, deep learning and natural language processing to practical problems. I take raw, messy data, design thoughtful feature pipelines, and turn experimental models into clean, reproducible code.
 
 My contribution is clarity: I turn vague problem statements into measurable ML tasks, question assumptions hidden in the data, and explain results and trade-offs in plain language so decisions are backed by evidence, not guesswork.
- 
+
+<!-- Add your degree if eligible, then move this line outside the comment:
+🎓 [Degree and branch] · [College] · [Graduation year]
+-->
+
 ---
- 
+
 ## 🔍 What I Work On
- 
+
 | Area | What I Do |
 |------|-----------|
-| **🤖 Machine Learning & Feature Engineering** | End-to-end training and evaluation workflows in Scikit-Learn with custom transformers, `ColumnTransformer`s, pipelines, and systematic hyperparameter tuning with Optuna. |
+| **🤖 Applied Machine Learning** | End-to-end training and evaluation workflows in Scikit-Learn with custom transformers, `ColumnTransformer`s, pipelines, and systematic hyperparameter tuning with Optuna. |
 | **🧬 Deep Learning & Sequence Modeling** | Neural networks in PyTorch and TensorFlow/Keras, with a focus on RNNs and LSTMs for time-dependent and text data. |
-| **💬 Natural Language Processing** | Text processing pipelines, TF-IDF and word embeddings, semantic similarity engines, and Transformer-based workflows using NLTK, spaCy, and Hugging Face. |
-| **🚀 Inference & Packaging** | Wrapping trained models in lightweight, testable REST endpoints with FastAPI so predictions can be consumed reliably outside notebooks. |
- 
+| **💬 NLP & Transformers** | Text processing pipelines, TF-IDF and word embeddings, semantic similarity engines, and Transformer-based workflows using NLTK, spaCy, and Hugging Face. |
+| **🚀 Model Deployment** | Wrapping trained models in lightweight, testable REST endpoints with FastAPI so predictions can be consumed reliably outside notebooks. |
+
 ---
- 
+
 ## 🧠 Engineering Approach
- 
+
 - 📊 **Data-First:** Thorough exploratory analysis, leakage-free validation splits, and clean feature representation before reaching for complex models.
 - 🧱 **Reproducible & Modular:** Experiments structured as modular Python scripts and reusable preprocessing pipelines, not monolithic notebooks.
 - 🎯 **Practical Evaluation:** Task-relevant metrics and error analysis, not just headline accuracy.
- 
+
+<!-- Fill in with a real project, then move this section outside the comment:
+
 ---
- 
+
+## 🚀 Featured Project
+
+**[Project Name](repository-link)**: One line on the problem it solves.
+- **Built:** your approach and tools
+- **Result:** a metric you measured, and the baseline it is compared with
+-->
+
+---
+
 ## 🧩 Tech Stack
- 
+
+**Applied AI & Machine Learning**
+`Python` `Machine Learning` `Deep Learning` `NLP` `Hugging Face Transformers` `Semantic Similarity`
+
+**Data Engineering & Analysis**
+`SQL` `Data Pipelines` `Feature Engineering` `Statistical Modeling` `Data Wrangling (Pandas/NumPy)`
+
+**Frameworks & Libraries**
+`Scikit-Learn` `Optuna` `PyTorch` `TensorFlow` `Keras` `spaCy` `NLTK`
+
+**Deployment & Tools**
+`Model Deployment (FastAPI)` `REST APIs` `Git / Version Control` `Jupyter`
+
+<!-- Add only the skills you have actually used, then move them into the groups above:
+`LLMs` `Prompt Engineering` `RAG` `Vector Databases (name the one you used)` `Flask`
+-->
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -56,31 +87,18 @@ My contribution is clarity: I turn vague problem statements into measurable ML t
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
- 
-<details>
-<summary><b>Full breakdown</b></summary>
- 
-- **Languages & Core:** Python, SQL
-- **Machine Learning:** Scikit-Learn, Optuna, Statistical Modeling
-- **Deep Learning:** PyTorch, TensorFlow, Keras (Neural Networks, RNNs, LSTMs)
-- **NLP & Text:** Hugging Face Transformers, spaCy, NLTK, TF-IDF & Embeddings
-- **Data Processing:** Pandas, NumPy, Feature Pipelines
-- **Inference & Tooling:** FastAPI, Git, Jupyter
- 
-</details>
- 
+
 ---
- 
+
 ## 📫 Let's Connect
- 
-- 💼 **LinkedIn:** [linkedin.com/in/mitul-rana](https://www.linkedin.com/in/mitul-rana-aa1ba82a8)
+
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mitul-rana-aa1ba82a8)
 - 📧 **Email:** [mitulrana2910@gmail.com](mailto:mitulrana2910@gmail.com)
- 
+
 ---
- 
+
 <div align="center">
- 
+
 > *"Clean data, solid fundamentals, reliable models."*
- 
+
 </div>
- 
