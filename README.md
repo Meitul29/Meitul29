@@ -19,9 +19,6 @@ I'm an Aspiring AI Engineer and I can apply machine learning, deep learning and 
 
 My contribution is clarity: I turn vague problem statements into measurable ML tasks, question assumptions hidden in the data, and explain results and trade-offs in plain language so decisions are backed by evidence, not guesswork.
 
-<!-- Add your degree if eligible, then move this line outside the comment:
-🎓 [Degree and branch] · [College] · [Graduation year]
--->
 
 ---
 
@@ -42,16 +39,6 @@ My contribution is clarity: I turn vague problem statements into measurable ML t
 - 🧱 **Reproducible & Modular:** Experiments structured as modular Python scripts and reusable preprocessing pipelines, not monolithic notebooks.
 - 🎯 **Practical Evaluation:** Task-relevant metrics and error analysis, not just headline accuracy.
 
-<!-- Fill in with a real project, then move this section outside the comment:
-
----
-
-## 🚀 Featured Project
-
-**[Project Name](repository-link)**: One line on the problem it solves.
-- **Built:** your approach and tools
-- **Result:** a metric you measured, and the baseline it is compared with
--->
 
 ---
 
@@ -69,9 +56,6 @@ My contribution is clarity: I turn vague problem statements into measurable ML t
 **Deployment & Tools**
 `Model Deployment (FastAPI)` `REST APIs` `Git / Version Control` `Jupyter`
 
-<!-- Add only the skills you have actually used, then move them into the groups above:
-`LLMs` `Prompt Engineering` `RAG` `Vector Databases (name the one you used)` `Flask`
--->
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -84,7 +68,6 @@ My contribution is clarity: I turn vague problem statements into measurable ML t
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
